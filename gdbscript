@@ -1,0 +1,26 @@
+tar ext:4242
+set confirm off
+monitor semihosting enable
+break dummy
+continue
+delete
+kill
+quit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
